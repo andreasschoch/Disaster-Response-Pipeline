@@ -42,8 +42,7 @@ This project helps to analyze disaster data using a web app that classifies disa
     │   └── process_data.py                  # Data cleaning
     ├── models
     │   └── train_classifier.py              # Train ML model
-    ├── images
-    │   └── disaster_response.jpg             # Project banner 
+    ├── disaster_response.jpg             # Project banner 
     └── README.md
 
 ## 4. Instructions <a name="Instructions"></a>
