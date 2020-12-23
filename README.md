@@ -1,6 +1,6 @@
 # Disaster Response Pipeline by Choco
 
-![images/ScreenShot](disaster_response.jpg)
+![ScreenShot](disaster_response.jpg)
 
 ### Table of Contents
 
