@@ -4,13 +4,13 @@
 
 ### Table of Contents
 
-1. [1. Project Motivation](#ProjectMotivation)
-2. [2. Libraries](#Libraries)
-3. [3. File Description](#FileDescription)
-4. [4. Instructions](#Instructions)
-5. [5. Analysis](#Analysis)
-6. [6. Results](#Results)
-7. [7. Licensing, Authors, and Acknowledgements](#Licensing)
+1. [Project Motivation](#ProjectMotivation)
+2. [Libraries](#Libraries)
+3. [File Description](#FileDescription)
+4. [Instructions](#Instructions)
+5. [Analysis](#Analysis)
+6. [Results](#Results)
+7. [Licensing, Authors, and Acknowledgements](#Licensing)
 
 
 ## 1. Project Motivation <a name="ProjectMotivation"></a>
